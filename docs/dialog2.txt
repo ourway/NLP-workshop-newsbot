@@ -1,0 +1,14 @@
+-------------------------------------------------------------
++ Hello
+- Hello master, I am your news bot, what do you want to hear about?
++ Any news about Bitcoin?
+- Oh, Bitcoin! nice, here is a recent popular news about Bitcoin:
+- ...
+- Anything else?
++ thanks, what about Steller?
+- Here it is:
+- ...
+- Anything else?
++ No
+- Thanks for using me, bye bye
+-------------------------------------------------------------

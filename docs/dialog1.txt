@@ -1,0 +1,19 @@
+-----------------------------------------------------
++ hey there
+- Hi, I am your news reader, how can I help you?
++ Could you please give me some news about Revolut?
+- Sure, here is latest news:
+- ... news content ...
+- Do you want more news?
++ yes
+- here it is:
+- ...
+- Can I help you more?
++ What was the first news content about Revolut?
+- The title was "...".
++ Ok, thank you
+- Always happy to help
+- Do you need anything else?
++ No, thanks.
+- OK, goodbye.
+-----------------------------------------------------
